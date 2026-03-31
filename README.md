@@ -1,3 +1,5 @@
+![ivl_logo](https://github.com/user-attachments/assets/04964f9b-d185-4d58-9d45-59d5aaec8fa8)
+
 # Описание
 Improved Voicelines - звуковая модификация к игре Ex Machina: Меридиан 113, главная цель которой - переосмыслить и разнообразить реплики оригинального Меридиана 113.
 
