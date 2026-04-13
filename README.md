@@ -9,9 +9,9 @@ Improved Voicelines - звуковая модификация к игре Ex Mac
 
 # Скачать
 ## Для Меридиан 113
-* [Improved Voicelines v1.0](https://github.com/lyokhatankist/ImprovedVoicelines/releases/tag/Release) [RUS]
+* [Improved Voicelines v1.0.5.3](https://github.com/lyokhatankist/ImprovedVoicelines/releases/tag/Release-1053) [RUS]
 ## Для оригинальной игры
-* [Improved Voicelines 2 v1.0](https://github.com/lyokhatankist/ImprovedVoicelines/releases/tag/Release2) [RUS]
+* [Improved Voicelines 2 v1.0.5.3](https://github.com/lyokhatankist/ImprovedVoicelines/releases/tag/Release2-1053) [RUS]
 
 # Лицензирование:
 Проект распространяется в полном виде только на Github.com. Распространение файлов на других сайтах посторонними людьми не разрешено.
